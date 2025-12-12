@@ -93,7 +93,7 @@ On Google Colab, most of these are already available; you can simply upload the 
 
 
 Repo Structure
-
+```text
 gigo/
 ├── data/
 │   └── transactions_dirty.csv          # Example corrupted dataset
@@ -107,7 +107,7 @@ gigo/
 ├── gigo_pipeline_amantha.py           # Main pipeline script (end-to-end implementation)
 ├── requirements.txt                   # Python dependencies
 └── README.md                          # This file
-
+```
 4. Usage Examples
 4.1. Run the Main Implementation Script
 
