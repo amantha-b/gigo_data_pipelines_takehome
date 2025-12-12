@@ -106,7 +106,8 @@ gigo/
 │   └── gigo_template_amantha.ipynb    # Starter notebook with TODOs for learners
 ├── gigo_pipeline_amantha.py           # Main pipeline script (end-to-end implementation)
 ├── requirements.txt                   # Python dependencies
-└── README.md                          # This file
+└── LICENSE
+└── README.md                        # This file
 ```
 4. Usage Examples
 4.1. Run the Main Implementation Script
