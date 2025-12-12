@@ -1,0 +1,10 @@
+# Core numeric + data stack
+numpy>=1.24
+pandas>=2.0
+
+# Plotting
+matplotlib>=3.7
+
+# Jupyter (for running the notebook locally)
+jupyterlab>=4.0
+ipykernel>=6.0
